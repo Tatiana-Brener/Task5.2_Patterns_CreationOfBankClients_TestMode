@@ -10,7 +10,7 @@ build: off  # будем использовать свой скрипт сбор
 
 install:
 
-  - java -jar ./artifacts/app-card-delivery.jar &
+  - java -jar ./artifacts/app-ibank.jar -P:profile=test &
   - chmod +x gradlew
 
 build_script:
