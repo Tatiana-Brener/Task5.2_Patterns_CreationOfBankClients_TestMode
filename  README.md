@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/rcww1jbhp7ofvm7s?svg=true)](https://ci.appveyor.com/project/Tatiana-Brener/task5-2-patterns-creationofbankclients-testmode)
